@@ -166,3 +166,4 @@ PD: We offer too a desktop app for manual betting. Ask us!
 👉 **Info:** [@infoqrsolver](https://t.me/infoqrsolver)  
 👉 **Support & Sales:** [@qrsolver](https://t.me/qrsolver)  
 👉 **API Docs:** [qrsolver.com/docs/api/swagger-ui](https://qrsolver.com/docs/api/swagger-ui/)
+.
